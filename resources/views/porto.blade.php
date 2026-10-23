@@ -1,6 +1,6 @@
 @extends('layout.header')
 
-@section('content')
+@section('container')
 <div class="row">
     <div class="col-6">
 <div class="card mb-3">

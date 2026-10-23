@@ -1,6 +1,6 @@
 @extends("layout.header")
 
-@section("content")
+@section('container')
   <div class="row align-items-start">
     <div class="col-6">
       <h1>Image</h1>
